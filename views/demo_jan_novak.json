@@ -1,0 +1,44 @@
+{
+  "employee_id": "emp-demo-001",
+  "full_name": "Jan Novák",
+  "generated_at": "2026-10-22T14:25:00+02:00",
+  "months": [
+    {
+      "year": 2026,
+      "month": 10,
+      "total_hours": 127.75,
+      "worked_days": 15,
+      "avg_hours_per_day": 8.52,
+      "days": [
+        { "date": "2026-10-01", "in": "06:58", "out": "15:30", "hours": 8.53, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-02", "in": "06:55", "out": "15:25", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-05", "in": "07:02", "out": "15:32", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-06", "in": "06:59", "out": "15:29", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-07", "in": "07:10", "out": "15:40", "hours": 8.50, "auth_method": "PIN", "is_override": false, "note": "Zadáno PINem bez čipu" },
+        { "date": "2026-10-08", "in": "06:57", "out": "15:27", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-09", "in": "07:00", "out": "15:30", "hours": 8.50, "auth_method": "ADMIN", "is_override": true, "note": "Opraveno (Petr Svoboda): Zapomněl pípnout odchod" },
+        { "date": "2026-10-12", "in": "06:56", "out": "15:26", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-13", "in": "06:58", "out": "15:35", "hours": 8.62, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-14", "in": "07:01", "out": "15:31", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-15", "in": "06:55", "out": "15:25", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-16", "in": "07:00", "out": "15:30", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-19", "in": "06:59", "out": "15:35", "hours": 8.60, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-20", "in": "06:57", "out": "15:27", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-10-21", "in": "07:00", "out": "15:30", "hours": 8.50, "auth_method": "ADMIN", "is_override": true, "note": "Opraveno (Petr Svoboda): Práce mimo dílnu" },
+        { "date": "2026-10-22", "in": "06:58", "out": null, "hours": 0.0, "auth_method": "CHIP", "is_override": false, "note": "Právě v práci" }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "total_hours": 168.50,
+      "worked_days": 20,
+      "avg_hours_per_day": 8.43,
+      "days": [
+        { "date": "2026-09-01", "in": "06:58", "out": "15:28", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-09-02", "in": "07:00", "out": "15:30", "hours": 8.50, "auth_method": "CHIP", "is_override": false, "note": null },
+        { "date": "2026-09-03", "in": "06:55", "out": "15:15", "hours": 8.33, "auth_method": "CHIP", "is_override": false, "note": null }
+      ]
+    }
+  ]
+}
